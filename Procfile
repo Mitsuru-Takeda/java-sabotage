@@ -1,1 +1,1 @@
-web: java -jar target/sabotage
+web: java -jar target/sabotage-1.0-SNAPSHOT.jar
